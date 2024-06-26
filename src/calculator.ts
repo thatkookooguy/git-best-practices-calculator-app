@@ -1,4 +1,13 @@
 export class Calculator {
+  /**
+   * asdsadasdasdsadasdasdsadasdasdsadasdasdsadasd
+   * asdsadasdasdsadasdasdsadasdasdsadasd
+   * asdsadasdasdsadasdasdsadasdasdsadasd
+   * asdsadasdasdsadasdasdsadasdasdsadasd
+   * @param a 
+   * @param b 
+   * @returns 
+   */
   add(a: number, b: number) {
     return a + b;
   }
