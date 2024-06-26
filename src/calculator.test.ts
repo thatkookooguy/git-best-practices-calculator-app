@@ -9,6 +9,9 @@ describe('Calculator', () => {
     const calculator = new Calculator();
     expect(calculator.subtract(5, 3)).toBe(2);
   });
-  test.todo('multiplies 2 * 3 to equal 6');
+  test('multiplies 2 * 3 to equal 6', () => {
+    const calculator = new Calculator();
+    expect(calculator.multiply(2, 3)).toBe(6);
+  });
   test.todo('divides 6 / 3 to equal 2');
 });

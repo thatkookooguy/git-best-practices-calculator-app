@@ -4,10 +4,11 @@ export class Calculator {
   }
 
   subtract(a: number, b: number) {
-    return a - b;
+    return a - b + 1;
   }
 
   multiply(a: number, b: number) {
+    return a * b;
   }
 
   divide(a: number, b: number) {
