@@ -7,6 +7,10 @@ export class Calculator {
     return a - b;
   }
 
+  anotherMethod(a: number, b: number) {
+    return a - b + 5;
+  }
+
   multiply(a: number, b: number) {
     return a * b;
   }
