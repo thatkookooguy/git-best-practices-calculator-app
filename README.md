@@ -2,6 +2,8 @@
 
 This repository demonstrates best practices for using Git, particularly focusing on small, focused commits and managing branches effectively. The project is a simple TypeScript-based calculator application with unit tests written using Jest.
 
+for the documentation this repo was created for: https://gist.github.com/thatkookooguy/e8b2e32abe9818b14246fc3bb4686147
+
 ## Getting Started
 
 To get started with this project, follow these steps:
